@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Final-Convite</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="BuscaNome">Buscar Convidado por Nome</string>
+    <string name="BuscaQR">Buscar Convidado Por QR-Code</string>
+    <string name="title_activity_buscar_por_nome">BuscarPorNomeActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scan">Buscar por QR-Code</string>
+    <string name="cadastrar">Cadastrar Convidado</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="botao_login">login</string>
+
+
+</resources>
