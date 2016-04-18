@@ -52,7 +52,7 @@ public class MainActivity extends Activity {
                 finish();
             }
         });
-        botaobuscarqr.setOnClickListener(new View.OnClickListener() {
+        botaocadastro.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
